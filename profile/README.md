@@ -10,6 +10,6 @@
           <li><a href="https://fastwonderblog.com/speaking/">Speaking Engagements</a></li>
           <li><a href="https://www.linkedin.com/in/dawnfoster/">Dawn Foster on LinkedIn</a></li>
         </ul></td>
-    <td style="width:50%"><img src="https://fastwonder.com/assets/img/dawn.jpg" alt="Dawn Foster Profile Picture" width="300"></td>
+    <td style="width:50%"><img src="https://fastwonder.com/assets/img/dawn.jpg" alt="Dawn Foster Profile Picture" width="300px"></td>
   </tr>
 </table>
